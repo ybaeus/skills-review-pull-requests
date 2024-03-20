@@ -27,6 +27,7 @@ Now let's see how easy it is to [apply your suggestion](https://docs.github.com/
 
 ### :keyboard: Activity: Apply suggested changes
 
+0. Make a new line for commit. 
 1. Click **Commit suggestion**.
 1. Type a commit message.
 1. Click **Commit changes**.
